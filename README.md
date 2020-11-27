@@ -33,11 +33,11 @@ I outlined the thinking and theory behind this project in my GitHub Pages blog p
 * Define function to categorize collocations by type (grammatical, lexical) 
 * Define function to count up all collocations of a given word
 
-## Write flashcards:
+### Write flashcards:
 * Iterate over Russian frequency list
 * Find English definitions and grammatical information of each Russian word in frequency list
 * Find frequency of each English definition in parallel corpus
 * Find top collocations of Russian word in parallel corpus
 * Collate information above and write onto Anki flashcard
 
-## Export Anki deck file
+### Export Anki deck file
