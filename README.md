@@ -10,7 +10,7 @@ So I wrote a program intended to serve as this optimal tool, automating as much 
 
 ## Load Russian National Corpus frequency list
 
-## Compile parallel corpus:
+## Compile, clean and preprocess parallel corpus:
 * Load tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto Pandas DataFrame
 * Remove duplicate source sentences
 * Standardise source and target sentences: remove non-letter and non-digit characters, remove elisions
