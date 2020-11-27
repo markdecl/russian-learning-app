@@ -23,7 +23,7 @@ So I wrote a program intended to serve as this optimal tool, automating as much 
 
 ## Define web-scraping functions
 
-## Collocational analysis:
+## Define functions for collocational analysis:
 * Define function to extract collocations from a sentence
 * Define function to lemmatize each collocation
 * Define function to categorize collocations by type (grammatical, lexical) 
