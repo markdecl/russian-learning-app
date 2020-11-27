@@ -10,24 +10,24 @@ So I wrote a program intended to serve as this optimal tool, automating as much 
 
 I outlined the thinking and theory behind this project in my GitHub Pages blog post [here](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
 
-Breakdown of the project:
+## Breakdown of the project:
 
-## Load Russian National Corpus frequency list
+### Load Russian National Corpus frequency list
 
-## Compile, clean and preprocess parallel corpus:
+### Compile, clean and preprocess parallel corpus:
 * Load tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto Pandas DataFrame
 * Remove duplicate source sentences
 * Standardise source and target sentences: remove non-letter and non-digit characters, remove elisions
 * Create more features from source sentences: lemmatized source sentence, PoS tags of tokens in source sentence
 * Create 'register' feature from sentence source ('political', 'informal', 'journalism', 'general')
 
-## Create idiom dictionary:
+### Create idiom dictionary:
 * Web-scrape from online dictionaries
 * Filter, clean and preprocess idioms
 
-## Define web-scraping functions
+### Define web-scraping functions
 
-## Define functions for collocational analysis:
+### Define functions for collocational analysis:
 * Define function to extract collocations from a sentence
 * Define function to lemmatize each collocation
 * Define function to categorize collocations by type (grammatical, lexical) 
