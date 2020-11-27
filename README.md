@@ -8,6 +8,10 @@ Taking a look at this enormous learning task -- the absorption of thousands of w
 
 So I wrote a program intended to serve as this optimal tool, automating as much of the learning process as possible.
 
+I outlined the thinking and theory behind this project in my GitHub Pages blog post [here](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
+
+Breakdown of the project:
+
 ## Load Russian National Corpus frequency list
 
 ## Compile, clean and preprocess parallel corpus:
