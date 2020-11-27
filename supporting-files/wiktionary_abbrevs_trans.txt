@@ -1,0 +1,418 @@
+бранн.£swearing
+вульг.£vulgar
+высок.£high style
+гипокор.£hypocoristic/diminutive
+груб.£rude
+детск.£children’s language
+диал.£dialect
+дисфм.£dysphemism (i.e. derogatory)
+жарг.£slang
+ирон.£ironic
+истор.£historical
+канц.£clerical
+книжн.£literary
+ласк.£affectionate
+мол.£youth
+нар.-поэт.£folk poetic
+нар.-разг.£folk colloquial
+научн.£scientific
+неодобр.£disapproving
+неол.£neologism
+обсц.£obscene
+офиц.£official
+поэт.£poetic
+презр.£contemptuous
+пренебр.£dismissive
+прост.£colloquial
+проф.£professional
+публиц.£journalistic
+разг.£colloquial
+рег.£regional
+ритор.£rhetorical
+сленг£slang
+сниж.£reduced
+советск.£sovietism
+спец.£specialist
+старин.£old-fashioned
+табу£taboo
+торж.£ceremonial
+трад.-нар.£traditional folk
+трад.-поэт.£traditionally poetic
+увелич.£magnifying
+уменьш.£diminutive
+умласк.£diminutive
+унич.£derogatory
+усилит.£amplifying
+устар.£outdated
+фам.£familiar
+школьн.£school
+шутл.£humorous
+эвф.£euphemism
+экзот.£exoticism
+экспр.£expressive
+эррат.£errative
+авиац.£aviation
+автомоб.£automobile
+агрон.£agronomic
+алхим.£alchemical
+альп.£climbing
+анат.£anatomical
+антроп.£anthropological
+артилл.£artillery
+археол.£archeology
+архит.£architectural
+астрол.£astrological
+астрон.£astronomical
+библейск.£biblical
+биол.£biological
+биохим.£biochemical
+ботан.£botanical
+бухг.£accounting
+вет.£veterinary
+военн.£military
+гастрон.£gastronomic
+генет.£molecular biology and genetics
+геогр.£geographical
+геод.£geodesic
+геол.£geological
+геометр.£geometric
+геофиз.£geophysical
+геральд.£heraldic
+гидрол.£hydrological
+гидротехн.£hydraulic engineering
+горн.£mining engineering
+дипл.£diplomatic
+ж.-д.£railway
+живоп.£painting
+животн.£animal husbandry
+зоол.£zoological
+игр.£game
+информ.£computer science
+искусств.£art history
+ислам.£Islamic
+ихтиол.£ichthyological
+йогич.£yogic
+карт.£gambling
+керам.£ceramic
+кино£cinematic
+кинол.£canine
+комп.£computer
+косм.£space
+кулин.£culinary
+культурол.£cultural
+лес.£forestry
+лингв.£linguistic
+матем.£mathematical
+машин.£engineering
+мед.£medical
+металл.£metallurgical
+метеорол.£meteorological
+мех.£Mechanics
+микробиол.£microbiological
+минер.£mineralogy
+мифол.£mythological
+морск.£marine
+муз.£musical
+нефтегаз.£oil and gas industry
+нумизм.£numismatic
+океан.£oceanological
+оккульт.£occult
+опт.£optical
+орнитол.£ornithological
+охотн.£hunting
+палеонт.£paleontological
+паразит.£parasitological
+парикмах.£hairdressing
+плотн.£carpentry
+полигр.£printing
+полит.£political
+портн.£tailoring
+прогр.£programmer
+психиатр.£psychiatry
+психол.£psychology
+радио.£radio engineering
+радиоэл.£electronic
+рекл.£advertising
+религ.£religious
+рыбол.£fishing
+с.-х.£agricultural
+сексол.£sexology
+социол.£sociology
+спелеол.£speleological
+спорт.£sports
+стат.£statistical
+столярн.£carpentry
+строит.£building
+театр.£theatrical
+текст.£textile
+телеком.£telecommunications and communications
+техн.£technical
+торг.£trade
+трансп.£transport
+управл.£managerial
+фант.£fantastical
+фарм.£pharmaceutical term
+физ.£physical
+физиол.£physiology
+филат.£филателистическое
+филол.£philological
+филос.£philosophical
+фин.£financial
+фолькл.£folklore
+фотогр.£photographic
+хим.£chemical
+хоз.£household
+хореогр.£choreographic
+церк.£church
+цирк.£circus
+цитол.£cytological
+шахм.£chess
+швейн.£sewing
+экол.£environmental
+экон.£economic
+эл.-техн.£electrical engineering
+эл.-энерг.£electric power
+энтомол.£entomological
+этногр.£ethnographic
+этнолог.£ethnological
+ювел.£jewelry
+юр.£legal or regulatory
+автомоб. жарг.£motorist jargon
+военн. жарг.£military jargon
+жарг. викип.£wiki jargon
+интернет.£internet jargon
+комп. жарг.£computer jargon
+студ. жарг.£student jargon
+техн. жарг.£technical jargon
+крим. и крим. жарг.£criminal jargon
+полит. жарг.£political jargon
+жарг. нарк.£jargon addicts
+жарг. ЛГБТ£LGBT jargon
+австрал.£Australian English
+адыг.£Adyghe
+азерб.£Azerbaijani
+айм.£Aymara
+айнск.£Ainu
+алб.£албанское
+алем.£alemanian
+амер.£american english
+англ.£English
+арабск.£arabic
+араг.£Aragonese
+арм.£armenian
+ассамск.£Assamese
+астур.£asturian
+афр.£Afrikaans
+баскск.£баскское
+башк.£Bashkir
+белор.£Belarusian
+бельг.£Belgian version of the Dutch language
+бенг.£Bengali
+бесерм.£Beserman (Beserman dialect language
+болг.£Bulgarian
+босн.£Bosnian
+браз.£Brazilian Portuguese
+брет.£бретонское
+брит.£British English
+бурятск.£Buryat
+валл.£Welsh
+валлонск.£Walloon
+варайск.£varayskoe
+венг.£Hungarian
+вепсск.£Vepsian
+воев.£Vojvodina (variant-dialect of the Hungarian language of Vojvodina Hungarians)
+вост.-мар.£East Mari (the language of the East Mari, see also Erwel)
+голл.£Dutch
+горн.-мар.£mountain mari
+греч.£greek
+гуц.£Hutsul
+датск.£Danish
+доминик.£Dominican Spanish
+дор.£Doric dialect of the ancient Greek language
+др.£ancient-, ancient
+др.-в.-нем.£Old High German
+др.-прусск.£Old Prussian
+жем.£zhemayskoe
+индонез.£Indonesian
+ион.£Ionian dialect of the ancient Greek language
+ирл.£Irish
+исл.£Icelandic
+исп.£Spanish
+итал.£italian
+йор.£Yoruba
+казахск.£Kazakh
+канадск.£Canadian
+карел.£Karelian
+кашм.£Kashmiri
+кашубск.£Kashubian
+кирг.£Kyrgyz
+коми-зыр.£Komi-Zyryansk
+коми-перм.£Komi-Permyak
+коми-язьв.£Komi-Yazvinskoe
+коми.£Komi
+кор.£Korean
+корнск.£corny
+кубан.£Kuban
+курдск.£Kurdish
+кхмерск.£khmerskoe
+лакск.£laksky
+лаосск.£Laos
+лат.£Latin
+латг.£Latgale
+латышск.£Latvian
+литовск.£Lithuanian
+луг.-вост. мар.£meadow east mari
+луг. мар.£meadow-Mari (meadow Mari language)
+луж.£luzhitsky
+макед.£Macedonian
+малаг.£Malagasy
+малайск.£malay
+мальт.£Maltese
+манс.£Mansi
+мар.£Mari
+мегр.£Mingrelian
+мокш.£Mokshan
+молд.£Moldavian
+монг.£mongolian
+монск.£monskoy
+мордв.£Mordovian (see also Mokshan and Erzya)
+неап.£neapolitan
+нев.£unvar
+нем.£German
+нен.£Nenets
+непальск.£Nepalese
+нидерл.£Dutch
+нов.-зел.£New Zealand English
+норв.£norwegian
+оксит.£Occitan
+осет.£Ossetian
+пандж.£Punjabi
+перс.£Persian
+полабск.£polabskoe
+польск.£Polish
+порт.£Portuguese
+прусск.£Prussian
+румынск.£romanian
+русин.£Rusyn
+русск.£Russian
+санскр.£Sanskrit
+сев.-зап. марийск.£northwestern Mari (a dialect language of the northwestern Mari)
+сег.£Szeged (Szeged
+сек.£sekese (sekay
+сербохорв.£Serbo-Croatian
+сербск.£Serbian
+силезск.£Silesian
+словацк.£Slovak
+словенск.£Slovenian
+табас.£Tabasaranskiy
+таг.£Tagalog
+тадж.£Tajik
+тайв.£Taiwanese Chinese
+тайск.£Thai
+тамильск.£tamil
+тат.£Tatar
+татск.£tat
+тиб.£Tibetan
+тур.£Turkish
+туркм.£Turkmen
+тюркск.£Turkic
+удм.£Udmurt
+узб.£Uzbek
+уйг.£Uighur
+укр.£Ukrainian
+фарерск.£Faroese
+фидж.£Fijian
+финск.£finnish
+франц.£french
+фризск.£Friesian
+фриульск.£Friulian
+хак.£Khakass
+хант.£Khanty
+хант.-манс.£Khanty-Mansiysk (see also Mansi and Khanty)
+хеттск.£Hittite
+хорв.£Croatian
+церк.-слав.£Church Slavonic
+цыг.£The Roma
+чанг.£dusting (dust)
+чеч.£Chechen
+чешск.£Czech
+чили£Chilean Spanish
+чув.£Chuvash
+шведск.£swedish
+швейц.£Swiss German
+шерпск.£Sherpa
+шорск.£shore
+шотл.£Scottish English
+эвенк.£Evenki
+эвенск.£Even
+эол.£Aeolian dialect of the ancient Greek language
+эрв.£Erwel (language-dialect of the East Mari, see also East-Mar.)
+эрз.£Erzyan
+эст.£Estonian
+южноафр.£South African
+яванск.£Javanese
+якутск.£Yakut
+яп.£Japanese
+3л.£impersonal verbs
+адъектив.£adjective
+безл.£impersonal
+вводн.£introductory word
+вин. п.£accusative
+вопр.£in interrogative sentences
+восклиц.£exclamation
+гл.£verb
+дат. п.£dative
+ед. ч.£singular
+ж. р.£feminine
+женск.£feminine
+им. п.£nominative case
+исх. п.£исходный падеж
+исч.£countable
+м. р.£masculine
+местн. п.£местный падеж
+метоним.£metonymy
+мн. ч.£collective noun / plural
+многокр.£multiple actions
+нареч.£adverb
+неисч.£uncountable
+неодуш.£inanimate
+неперех.£intransitive verb
+нескл.£indeclinable
+обобщ.£generalized
+общ.£general form
+однокр.£instantaneous or single action
+одуш.£animate
+отриц.£in negative sentences
+перех.£transitive verb
+повел.£imperative mood
+превосх. ст.£superlative degree
+предик.£predicative
+предл. п.£prepositional
+прил.£adjective
+прич.£participle
+прош.£past tense
+разд. п.£разделительный падеж
+род. п.£genitive
+собир.£collective noun
+сокр.£abbreviated
+ср. р.£neuter gender
+сравн. ст.£comparative
+статив.£lexical meaning
+страд.£passive voice
+субстантивир.£as a noun
+сущ.£noun
+счётн.£counting word
+тв. п.£instrumental case
+букв.£literal
+искаж.£distorted/warped
+неправ.£incorrect
+перен.£figurative meaning
+пр.£other
+редк.£rare meaning of the word
+ср.£compare with
+тж.£also
+предикатив£as a predicative
+наречие£as an adverb
+с доп.£with an object
+типогр.£typography
+на что?£
