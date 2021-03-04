@@ -18,7 +18,7 @@ An example Anki flashcard showing the final product:
 ### Load Russian National Corpus frequency list
 
 ### Compile, clean and preprocess parallel corpus:
-* Load tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto Pandas DataFrame
+* Load tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto pandas DataFrame
 * Remove duplicate source sentences
 * Standardise source and target sentences: remove non-letter and non-digit characters, remove elisions
 * Create more features from source sentences: lemmatized source sentence, PoS tags of tokens in source sentence
