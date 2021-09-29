@@ -7,6 +7,9 @@ I outlined the thinking and theory behind this project in my [GitHub Pages blog 
 An example Anki flashcard showing the final product:  
 ![example flashcard](https://github.com/markdecl/Russian-Vocab-Project/blob/main/User%201%20-%20Anki%2011_27_2020%203_45_11%20PM.png)
 
+## Libraries and tools used:
+
+
 ## Breakdown of the project:
 
 ### Load Russian National Corpus frequency list
@@ -38,3 +41,9 @@ An example Anki flashcard showing the final product:
 * Collate information above and write onto Anki flashcard
 
 ### Export Anki deck file
+
+## If it were a bigger project:
+
+## Credits:
+
+## Will you accept pull requests?
