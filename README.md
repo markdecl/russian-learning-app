@@ -1,6 +1,6 @@
 # Russian-Vocab-Project
  
-The number of words and phrases in a given language is overwhelming; it is impressive that a non-native speaker can become fluent in a foreign language at all. I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise. So I wrote a program intended to serve as this optimal tool, automating as much of the learning process as possible.
+The number of words and phrases in a given language is overwhelming. I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise. So I wrote a program intended to serve as this optimal tool, automating as much of the learning process as possible.
 
 I outlined the thinking and theory behind this project in my [GitHub Pages blog post](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
 
