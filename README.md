@@ -1,14 +1,8 @@
 # Russian-Vocab-Project
  
-The number of words and phrases in a given language is overwhelming; it is impressive that a non-native speaker can become fluent in a foreign language at all.
+The number of words and phrases in a given language is overwhelming; it is impressive that a non-native speaker can become fluent in a foreign language at all. I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise. So I wrote a program intended to serve as this optimal tool, automating as much of the learning process as possible.
 
-Conventional wisdom tells us that a learner only reaches such a level of mastery through years of immersion -- living, speaking and breathing the language every day -- that allow them to internalise not only the sheer multitude of words, but also the mass of idioms, collocations and subtle meanings that collectively give them an “intuitive” knowledge of that language.
-
-Taking a look at this enormous learning task -- the absorption of thousands of words and phrases in a foreign language -- I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise. There must be a way to systematise this convoluted process, break the task down into its constituent parts, and build a tool that can perform much better as a learning aid. Since any small improvements in the efficiency of the learning process would scale up thousands of times, I knew that investing time to optimise the system would pay dividends in days and weeks of saved studying time.
-
-So I wrote a program intended to serve as this optimal tool, automating as much of the learning process as possible.
-
-I outlined the thinking and theory behind this project in my GitHub Pages blog post [here](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
+I outlined the thinking and theory behind this project in my [GitHub Pages blog post](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
 
 An example Anki flashcard showing the final product:  
 ![example flashcard](https://github.com/markdecl/Russian-Vocab-Project/blob/main/User%201%20-%20Anki%2011_27_2020%203_45_11%20PM.png)
