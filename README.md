@@ -9,11 +9,11 @@ An example Anki flashcard showing the final product:
 
 ## Libraries and tools used:
 * Python 3.7
-** NumPy
-** pandas
-** seaborn
-** NLTK
-** spaCy
+..* NumPy
+..* pandas
+..* seaborn
+..* NLTK
+..* spaCy
 
 ## Breakdown of the project:
 
