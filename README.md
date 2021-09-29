@@ -14,6 +14,7 @@ An example Anki flashcard showing the final product:
   * seaborn
   * NLTK
   * spaCy
+  * Beautiful Soup
 
 ## Breakdown of the project:
 
