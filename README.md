@@ -54,8 +54,7 @@ An example Anki flashcard showing the final product:
 
 ### Export Anki deck file
 
-## If it were a bigger project:
-
 ## Credits:
 
 ## Will you accept pull requests?
+Absolutely - get in touch if you want to contribute.
