@@ -1,4 +1,4 @@
-# Russian-Vocab-Project
+# Russian Learning App
  
 The number of words and phrases in Russian is overwhelming. I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise, so I wrote a flashcard app to optimise as much of the learning process as possible.
 
