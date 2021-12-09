@@ -13,7 +13,8 @@ An example Anki flashcard showing the final product:
 * Data preprocessing
 * Natural Language Processing
 
-## Libraries and tools used:
+## Tools and technologies used:
+* Jupyter Notebook
 * Python 3.7
   * NumPy
   * pandas
