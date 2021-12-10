@@ -58,4 +58,4 @@ An example Anki flashcard showing the final product:
 ## Credits:
 
 ## Will you accept pull requests?
-Absolutely - get in touch if you want to contribute.
+Absolutely - please get in touch if you want to contribute.
