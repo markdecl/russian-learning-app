@@ -57,5 +57,3 @@ An example Anki flashcard showing the final product:
 
 ## Credits:
 
-## Will you accept pull requests?
-Absolutely - please get in touch if you want to contribute.
