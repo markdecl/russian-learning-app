@@ -59,3 +59,4 @@ An example Anki flashcard showing the final product:
 * https://opus.nlpl.eu/
 * https://www.sketchengine.eu/
 * https://www.freecollocation.com/
+* https://collegeinfogeek.com/flash-card-study-tips/
