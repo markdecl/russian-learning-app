@@ -58,3 +58,4 @@ An example Anki flashcard showing the final product:
 ## Credits:
 * https://opus.nlpl.eu/
 * https://www.sketchengine.eu/
+* https://www.freecollocation.com/
