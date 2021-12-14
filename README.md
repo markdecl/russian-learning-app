@@ -56,4 +56,5 @@ An example Anki flashcard showing the final product:
 ### Export Anki deck file
 
 ## Credits:
-
+* https://opus.nlpl.eu/
+* https://www.sketchengine.eu/
