@@ -60,3 +60,4 @@ An example Anki flashcard showing the final product:
 * https://www.sketchengine.eu/
 * https://www.freecollocation.com/
 * https://collegeinfogeek.com/flash-card-study-tips/
+* [genanki](https://github.com/kerrickstaley/genanki)
