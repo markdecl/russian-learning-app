@@ -21,7 +21,7 @@ An example Anki flashcard showing the final product:
   * NLTK
   * spaCy
   * Beautiful Soup
-
+j
 ## Breakdown of the project:
 
 ### Load Russian National Corpus frequency list
