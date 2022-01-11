@@ -5,7 +5,7 @@ fs = FileSplit(file='C:\\Users\\MdeCL\\Desktop\\opus tmx files\\Russian\\UNPC (n
 fs.split()
 
 
-parallel_corp_folder = 'C:\\Users\\MdeCL\\Desktop\\opus tmx files\\Russian\\For para_texts_df'
+parallel_corp_folder = 'data\\parallel_corpus_files'
 
 num_sources = 0
 for tmx_folder in os.listdir(parallel_corp_folder):
@@ -22,7 +22,7 @@ for tmx_folder in os.listdir(parallel_corp_folder):
 
     print(tmx_folder)
 
-    with open("C:\\Users\\MdeCL\\Desktop\\Vocab-Project\\supporting-files\\opus tmx files\\Russian\\For para_texts_df\\" + tmx_folder, 'rb') as fin:
+    with open(parallel_corp_folder + tmx_folder, 'rb') as fin:
         tmx_file = tmxfile(fin, 'en', 'ru')
 
         for node in tmx_file.unit_iter():
