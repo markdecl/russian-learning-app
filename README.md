@@ -7,6 +7,9 @@ I've outlined the thinking and theory behind this project in my [GitHub Pages bl
 An example Anki flashcard showing the final product:  
 ![example flashcard](https://github.com/markdecl/Russian-Vocab-Project/blob/main/User%201%20-%20Anki%2011_27_2020%203_45_11%20PM.png)
 
+A GIF demo:
+![Flashcards Demo](demo/russian_learning_app_gif.gif)
+
 ## Skills used:
 * Web-scraping
 * Data preprocessing
