@@ -32,7 +32,7 @@ I've outlined the thinking and theory behind this project in my [GitHub Pages bl
 ### Load Russian National Corpus frequency list
 
 ### Compile, clean and preprocess parallel corpus:
-* Load tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto pandas DataFrame
+* Load .tmx files downloaded from [opus.nlpl.eu](opus.nlpl.eu) onto pandas DataFrame
 * Remove duplicate source sentences
 * Standardise source and target sentences: remove non-letter and non-digit characters, remove elisions
 * Create more features from source sentences: lemmatized source sentence, PoS tags of tokens in source sentence
