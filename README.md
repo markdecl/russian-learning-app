@@ -1,6 +1,6 @@
 # Russian Learning App
 The number of words and phrases in Russian is overwhelming. I thought that there must be a way for students to learn more quickly, more comprehensively, and with more enjoyment in the daily learning exercise, so I built a flashcard app to optimise as much of the learning process as possible. This app takes as input a list of words in Russian and outputs a deck of electronic flashcards with all the useful information to learn.
-
+y
 I've outlined the thinking and theory behind this project in my [GitHub Pages blog post](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
 
 ## Demo:
