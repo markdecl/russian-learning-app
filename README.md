@@ -4,7 +4,7 @@ The number of words and phrases in Russian is overwhelming. I thought that there
 I've outlined the thinking and theory behind this project in my [GitHub Pages blog post](https://markdecl.github.io/Optimising-vocab-learning-(with-some-help-from-Python)/).
 
 ## Demo:
-### An example Anki flashcard showing the final product:
+### Example Anki flashcard showing the final product:
 
 ![example flashcard](demo/User%201%20-%20Anki%2011_27_2020%203_45_11%20PM.png)
 
