@@ -6,7 +6,7 @@
 # Grammatical analysis
 # Register / genre analysis
 
-tl_en_note_type = genanki.Model(
+TARGET_LANGUAGE_TO_ENGLISH_NOTE_TYPE = genanki.Model(
   1607392319,
   'TL-EN TYPE TEST v3',
   fields=[
